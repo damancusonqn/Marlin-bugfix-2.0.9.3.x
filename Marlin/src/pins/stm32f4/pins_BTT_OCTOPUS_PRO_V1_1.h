@@ -41,8 +41,8 @@
   #define Z_MIN_PROBE_PIN                   PC5   // Probe (Proximity switch) port
 #endif
 
-#define HEATER_0_PIN                      PA0   // Heater0
-#define HEATER_2_PIN                      PB0   // Heater2
+// #define HEATER_0_PIN                      PA0   // Heater0
+// #define HEATER_2_PIN                      PB0   // Heater2
 #define Z2_ENABLE_PIN                     PA2
 #define NEOPIXEL_PIN                      PB10
 
